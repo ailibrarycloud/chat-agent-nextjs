@@ -1,8 +1,8 @@
-# Build you Chat Agent with AI Library
+# Build your AI Agent (Chat)
  
- You can use this repository to create a chat interface to interact with your agent.
+ Use this repository to create a chat interface to interact with your agent.
 
- Steps to get started - 
+ Steps to get started 
 
  ### 1. Clone the repository
 
@@ -12,7 +12,7 @@
 
  ### 3. Rename local.env to .env
 
- Within the file, replace key and namespace with your own.
+ Replace key and namespace with your own.
 
  ### 4. Run the repo
 
